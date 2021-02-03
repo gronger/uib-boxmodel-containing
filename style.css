@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
+
+* {
+    font-family: 'Hachi Maru Pop', cursive;
+}
+
+header {
+    height: 100vh;  
+}
+
+.header-img {
+    height: 100%;
+    width: 100%;
+    object-fit: auto;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
